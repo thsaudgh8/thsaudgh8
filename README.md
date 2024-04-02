@@ -1,6 +1,8 @@
-### Hi there 👋
+# 여기는 나의 프로필 페이지 입니다.
+## 안녕하세요 여러분 나는 thsaudgh8이라고 합니다.
+### 만나서 반갑고 👋
 
-<!--
+
 **thsaudgh8/thsaudgh8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
