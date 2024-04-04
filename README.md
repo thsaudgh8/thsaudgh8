@@ -29,4 +29,5 @@ Here are some ideas to get you started:
 
 # 이곳은 나의 프로젝트 결과물 들입니다.
 
-1. https://thsaudgh8.github.io/thsaudgh8Home/
+1. https://thsaudgh8.github.io/thsaudgh8Home/  
+2. https://github.com/thsaudgh8/addbook_robot    -mySQL , 파이썬을 이용한 간단한 주소록 프로그램
