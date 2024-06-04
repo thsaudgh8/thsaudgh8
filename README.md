@@ -28,7 +28,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thsaudgh8&show_icons=true&theme=radical)
 
 ## 📂Project📂
-
-#### 1. https://thsaudgh8.github.io/thsaudgh8Home/  
-#### 2. https://github.com/thsaudgh8/addbook_robot    -mySQL , 파이썬을 이용한 간단한 주소록 프로그램
+ 
+#### 1. https://github.com/thsaudgh8/addbook_robot    -간단한 주소록 프로그램 (MySQL, Python)
+#### 2. https://github.com/thsaudgh8/TM001  - 강아지와 고양이 구분하는 프로그램 (Python,PyQT5)
+#### 3. https://github.com/thsaudgh8/TM001 - 호랑이와 사자를 구분하는 웹앱 (Javascript, HTML, CSS)
 </div>
